@@ -1,0 +1,38 @@
+[
+    {
+        "category": "",
+        "priority": "",
+        "customer_email": null,
+        "issue_summary": "",
+        "reply": "",
+        "status": "Open",
+        "created_at": "2026-04-24 15:16:20"
+    },
+    {
+        "category": "Login Issues",
+        "priority": "High",
+        "customer_email": "customer@email.com",
+        "issue_summary": "Reset link not working after multiple attempts",
+        "reply": "None",
+        "status": "Open",
+        "created_at": "2026-04-24 15:18:06"
+    },
+    {
+        "category": "Feature Request",
+        "priority": "High",
+        "customer_email": "[customer@example.com](mailto:customer@example.com)",
+        "issue_summary": "Need to add dark mode to the app",
+        "reply": "",
+        "status": "Open",
+        "created_at": "2026-04-24 15:18:34"
+    },
+    {
+        "category": "Payment",
+        "priority": "High",
+        "customer_email": "abc@gmail.com",
+        "issue_summary": "Duplicate monthly subscription charge",
+        "reply": "I understand this is urgent. Can you please provide a transaction ID or order number for the duplicate charge?",
+        "status": "Open",
+        "created_at": "2026-04-24 15:19:07"
+    }
+]
